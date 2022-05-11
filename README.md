@@ -23,8 +23,25 @@
 
 - Cadastro de elogios 
 
-    [ ] Não é permitido um usuário cadastrar um elogio para si 
+    [x] Não é permitido um usuário cadastrar um elogio para si 
 
-    [ ] Nao é permitido um usuário cadastrar elogios para usuários invalido
+    [x] Nao é permitido um usuário cadastrar elogios para usuários invalido
 
-    [ ] O usuário precisa estar autenticado na aplicação
+    [x] O usuário precisa estar autenticado na aplicação
+
+
+
+    #
+
+
+
+
+    # Passos:
+
+        Migrations,
+        Entities,
+        Repositories,
+        Services,
+        Controller,
+        Router
+        
